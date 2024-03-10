@@ -1,1 +1,2 @@
-﻿# Amazon Clone
+# Amazon-clone
+E-commerce website
